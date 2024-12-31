@@ -46,7 +46,7 @@ const Header = ({ onSearch }) => {
       </div>
 
       <div className="flex items-center">
-        <button className="text-sm font-medium text-gray-800 mr-2">Miraz</button>
+        <button className="text-sm font-medium text-gray-800 mr-2">Muntasir</button>
         <img src="./src/assets/developer.jpg" alt="Profile" className="w-8 h-8 rounded-full border border-gray-300"/>
       </div>
     </header>
